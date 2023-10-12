@@ -1,0 +1,24 @@
+{
+    "title":  "Wat anderen zeggen",
+    "rating": {
+        "value": "4.0",
+        "label": ""
+    },
+    "items": [
+        {
+            "name": "Tudor Massagepraktijk",
+            "role": "Katinka van Vastenhoven",
+            "text": "Fantastische resultaten! We hebben samengewerkt met Website & Co voor onze website-optimalisatie, en de toename in online verkeer is indrukwekkend. Hun aandacht voor detail en expertise in SEO heeft echt het verschil gemaakt. We zijn meer dan tevreden met de samenwerking en kijken uit naar verdere groei."
+        },
+        {
+            "name": "Always Healthy Air",
+            "role": "Christof van Zanten",
+            "text": "Een echte professional! We hebben de expertise van Website & Co ingeschakeld om onze online aanwezigheid te verbeteren, en het resultaat was verbluffend. De nieuwe webshop is gebruiksvriendelijk, waardoor onze klanten snel en eenvoudig kunnen afrekenen."
+        },
+        {
+            "name": "Fixables",
+            "role": "Rene Smit",
+            "text": "Uitstekend werk! Website & Co heeft bijgedragen aan het opzetten van onze nieuwe website en heeft ons geholpen bij het stroomlijnen van onze reparatie's. Klanten kunnen nu snel en gemakkelijk afspraken maken voor verschillende reparaties. We zijn dankbaar voor hun expertise en toewijding."
+        }
+    ]
+}

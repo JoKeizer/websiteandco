@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "image": "/images/webshop.svg",
+            "title": "Webshop",
+            "text": "Ontdek Unieke Webshops die Groeien. Bij Website & Co integreren we design, functionaliteit en online marketing.",
+            "link": "/services/01-webshops"
+        },
+        {
+            "image": "/images/website.svg",
+            "title": "Websites",
+            "text": "Wij maken websites op maat, omdat elk van onze klanten uniek is. Dit is onze passie bij Website & Co.",
+            "link": "/services/02-websites"
+        },
+        {
+            "image": "/images/all-inclusive.svg",
+            "title": "Boost",
+            "text": "Met ons '1:1 All-Inclusive' pakket tillen we jouw bedrijf in slechts 12 maanden naar online succes.",
+            "link": "/services/03-all-inclusive"
+        }
+    ]
+}

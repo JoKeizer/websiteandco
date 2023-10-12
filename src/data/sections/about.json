@@ -1,0 +1,22 @@
+{
+    "title": "Wij gaan verder waar <br/>anderen stoppen",
+    "subtitle": "Welkom bij Website & Co",
+    "number": {
+        "value": "",
+        "label": "Wij laten jouw bedrijf groeien.."
+    },
+    "items": [
+        {
+            "title": "Even voorstellen",
+            "text": "Ik ben Jo, een 38-jarige moeder van twee prachtige dochters en een voormalig topsportster. Mijn leven draait om passie, doorzettingsvermogen en het verleggen van grenzen. Nu zet ik diezelfde toewijding in om jouw bedrijf te laten groeien."
+        },
+        {
+            "title": "Mijn missie",
+            "text": "Bij Website & Co zijn we meer dan alleen webdesign. We geloven dat in 2023 een aantrekkelijke website slechts het begin is. Daarom bieden we complete branding-oplossingen, waaronder het ontwerpen van logo's en huisstijlen. Maar we gaan verder. Onze focus ligt op online marketing: het effectief bereiken van jouw doelgroep en het omzetten van bezoekers in klanten. Samen creëren we een krachtige online aanwezigheid die jouw bedrijf naar nieuwe hoogten zal tillen. Laten we jouw passie omzetten in zakelijk succes. Bij Website & Co draait alles om jouw groei. Ben je er klaar voor?",
+            "button": {
+                "label": "Meer info",
+                "link": "/about"
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "bg_image": "/images/testi-bg.jpg",
+    "items": [
+        {
+            "name": "Lisa",
+            "role": "",
+            "text": "Ik ben zeer tevreden met de diensten van Website & Co. Ze hebben niet alleen onze website tot in de puntjes verzorgd, maar hebben ook onze branding naar een hoger niveau getild. De samenwerking was naadloos en professioneel. Een echte aanrader"
+        },
+        {
+            "name": "John",
+            "role": "",
+            "text": "Website & Co heeft onze verwachtingen overtroffen. Hun toewijding aan het creëren van een website die ons bedrijf weerspiegelt, was opmerkelijk. Onze klanten zijn onder de indruk van het nieuwe design, en dat heeft onze conversies aanzienlijk verbeterd"
+        },
+        {
+            "name": "Michael",
+            "role": "",
+            "text": "Als startende ondernemer was ik op zoek naar een partner die me kon begeleiden bij het opzetten van mijn online aanwezigheid. Website & Co heeft niet alleen mijn website gebouwd, maar heeft me ook geholpen bij het begrijpen van de online marketingwereld. Dankzij hen ben ik nu goed op weg naar succes"
+        }
+    ]
+}

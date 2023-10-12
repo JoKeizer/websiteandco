@@ -1,0 +1,40 @@
+{
+    "subtitle": "Mijn verhaal",
+    "title": "Van topsport <br>naar Website & Co.",
+    "button": {
+        "label": "Meer info",
+        "link": "/about"
+    },
+    "items": [
+        {
+            "image": "/images/olympische-spelen-2008.jpg",
+            "title": "Olympische Spelen Beijing",
+            "subtitle": "2008",
+            "text": "Op de Olympische Spelen van 2008 behaalde ik de 8e plaats in de 7-kamp atletiek. Een onvergetelijke reis vol toewijding, doorzettingsvermogen en prestatie op het hoogste sportpodium."
+        },
+        {
+            "image": "/images/2012.jpg",
+            "subtitle": "2012",
+            "title": "Van topsport naar realiteit",
+            "text": "Nadat ik in 2012 mijn studie Commerciële Economie aan de Johan Cruijff University met succes had afgerond, volgde ik mijn passie voor design en vormgeving. Mijn hart ligt bij het creëren van prachtige en doordachte ontwerpen, en daarom koos ik voor een studie in Grafische Vormgeving. Voor mij draait het allemaal om het maken van mooie dingen"
+        },
+        {
+            "image": "/images/2016.jpg",
+            "subtitle": "2016",
+            "title": "Studie Programmeren aan NYCDA",
+            "text": "In 2016 besloot ik mijn kennis verder uit te breiden door te gaan studeren in programmeren. Hoewel website-ontwikkeling al een vertrouwd terrein was, wilde ik dieper in de wereld van codering duiken en mijn vaardigheden naar een hoger niveau tillen. En ik vond mijn liefde van mijn leven."
+        },
+        {
+            "image": "/images/familie.jpg",
+            "subtitle": "2020",
+            "title": "Rust en stabiliteit",
+            "text": "In 2020 vond ik rust en stabiliteit in mijn leven. Ik kreeg de kans om te werken als Shopify-expert bij Balr, waar mijn passie voor e-commerce tot leven kwam. Bovenal verwelkomde ik twee prachtige dochters in mijn wereld, waardoor mijn hart nog meer gevuld is."
+        },
+        {
+            "image": "/images/website-and-co.jpg",
+            "subtitle": "Heden",
+            "title": "Dromen Najagen: Mijn Reis naar Website & Co",
+            "text": "Maar nu heb ik mijn baan opgezegd en ben ik vastbesloten mijn dromen na te jagen door mijn eigen bedrijf op te zetten. Welkom bij Website & Co, waar we verder gaan dan anderen en waar elke klant uniek is."
+        }
+    ]
+}

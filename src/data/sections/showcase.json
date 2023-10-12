@@ -1,0 +1,9 @@
+{
+    "subtitle": "Inspiratie nodig?",
+    "title": "Mijn werk",
+    "button": {
+        "label": "Meer werk",
+        "link": "/projects"
+    },
+    "numOfItems": 5
+}

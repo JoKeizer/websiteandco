@@ -1,0 +1,9 @@
+{
+    "subtitle": "Nieuws &amp; Blog",
+    "title": "Inzichten, Gedachten, Industrietrends, Marketingtips",
+    "button": {
+        "label": "Bekijk alle berichten",
+        "link": "/blog"
+    },
+    "numOfItems": 3
+}

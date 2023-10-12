@@ -1,0 +1,46 @@
+{
+    "subtitle": "Exclusieve klanten",
+    "title": "Met plezier hebben we samengewerkt met deze klanten",
+    "items": [
+        {
+            "link": "https://tudormassagepraktijk.com",
+            "label": "Bekijk website",
+            "image": "/images/tudor-massagepraktijk-icon.jpg"
+        },
+        {
+            "link": "https://balr.com",
+            "label": "Bekijk website",
+            "image": "/images/balr.jpg"
+        },
+        {
+            "link": "https://fixables.com",
+            "label": "Bekijk website",
+            "image": "/images/fixables.jpg"
+        },
+        {
+            "link": "https://anniekwintersacademy.nl",
+            "label": "Bekijk website",
+            "image": "/images/anniek-winters.jpg"
+        },
+        {
+            "link": "https://wannhaves.com",
+            "label": "Bekijk website",
+            "image": "/images/wannahaves.jpg"
+        },
+        {
+            "link": "https://alwayshealthyair.nl.com",
+            "label": "Bekijk website",
+            "image": "/images/always-healthy-air-icon.jpg"
+        },
+        {
+            "link": "https://echoaanhetspaarne.nl",
+            "label": "Bekijk website",
+            "image": "/images/echo-aan-het-spaarne.jpg"
+        },
+        {
+            "link": "",
+            "label": "Binnen kort online",
+            "image": "/images/m-verdegaal.jpg"
+        }
+    ]
+}

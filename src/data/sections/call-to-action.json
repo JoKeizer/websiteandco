@@ -1,0 +1,24 @@
+{
+    "title": "Samen kennismaken <br/><strong>is de 1ste stap</strong>",
+    "subtitle": "Gratis brainstormsessie",
+    "text": "<a href=\"mailto:jo@websiteandco.nl\" target=\"_blank\">jo@websiteandco.nl</a><br><br><a href=\"tel:+31641522043\" target=\"_blank\">tel: +31 641 5220 43</a>",
+    "bg_image": "/images/cta-bg-1.jpg",
+    "bg_image2": "/images/logo-main.png",
+    "social": [
+        {
+            "link": "https://instagram.com/",
+            "icon": "fab fa-instagram",
+            "title": "Instagram"
+        },
+        {
+            "link": "https://facebook.com/",
+            "icon": "fab fa-facebook-f",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://linkedin.com/",
+            "icon": "fab fa-linkedin-in",
+            "title": "LinkedIn"
+        }
+    ]
+}
